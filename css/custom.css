@@ -33,7 +33,7 @@ div#containerDiv {
     color: #3D3D45;
 }
 #header {
-    background: url(/images/bg.png) no-repeat center fixed;
+    background: url(../images/bg.png) no-repeat center fixed;
     padding: 50px;
     background-size: cover;
     height: 624px;
